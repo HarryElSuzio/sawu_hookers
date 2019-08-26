@@ -8,6 +8,7 @@ Do not reupload without my permission.
 
 ## Dependencies
 - [Mythic Notifications](https://forum.fivem.net/t/dev-resource-mythic-notifications/587071)
+Make sure you have the latest release of mythic_notify. I am using the new function to draw notifications in this script.
 
 ## Credits
 The UI i used is based on a resource @Xander1988 and @darkzygb made, i cant remember what resource but i have to give them all the credits for it. 
